@@ -1,3 +1,4 @@
+/** Global style ************/
 body {
   background-color:black;
   font-family: Arial;
@@ -8,6 +9,8 @@ h1 {
   color:grey;
   font-family: Verdana;
 }
+
+/** components style ************/
 
 .maindiv {
   background-color: white;
